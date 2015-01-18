@@ -26,3 +26,10 @@ PPT下载点击[这里](PPT/)
 讲解点击[这里](http://www.jianshu.com/p/2afa1d48e034) 
 
 代码点击[Singleton](src/Factory)
+
+
+观察者模式(Observer)
+--
+讲解点击[这里](http://www.jianshu.com/p/eee10a55112f) 
+
+代码点击[Singleton](src/Observer)
