@@ -11,7 +11,7 @@ GoF的23种设计模式学习笔记，结合自己在实现工作项目中用到
 
 里面的Demo分别为[AskForLevel](src/AskForLevel) 、 [AskForLevel2](src/AskForLevel2)
 
-PPT下载点击[这里](PPT/职责链模式.pptx)
+PPT下载点击[这里](PPT/)
 
 
 单例模式(Singleton)
@@ -20,3 +20,9 @@ PPT下载点击[这里](PPT/职责链模式.pptx)
 
 代码点击[Singleton](src/Singleton)
 
+
+工厂模式
+--
+讲解点击[这里](http://www.jianshu.com/p/2afa1d48e034) 
+
+代码点击[Singleton](src/Factory)
