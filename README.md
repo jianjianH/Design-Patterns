@@ -9,9 +9,9 @@ GoF的23种设计模式学习笔记，结合自己在实现工作项目中用到
 
 讲解点击[这里](http://www.jianshu.com/p/cfebb45d7b9e) 
 
-里面的Demo分别为[AskForLevel](https://github.com/jianjianH/Design-Patterns/tree/master/src/AskForLevel) 、 [AskForLevel2](https://github.com/jianjianH/Design-Patterns/tree/master/src/AskForLevel2)
+里面的Demo分别为[AskForLevel](src/AskForLevel) 、 [AskForLevel2](src/AskForLevel2)
 
-PPT下载点击[这里](https://raw.githubusercontent.com/jianjianH/Design-Patterns/master/PPT/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.pptx)
+PPT下载点击[这里](PPT/职责链模式.pptx)
 
 
 单例模式(Singleton)
